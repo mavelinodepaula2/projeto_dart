@@ -1,0 +1,9 @@
+int nota = 7;
+
+if (nota >= 9) {
+  print("Excelente");
+} else if (nota >= 6) {
+  print("Aprovado");
+} else {
+  print("Reprovado");
+}
